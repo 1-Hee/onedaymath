@@ -27,16 +27,8 @@
 <img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
 
 ### 하루 1분 수학본능 라운드 액티비티(실제 게임을 진행하는 액티비티)
-<img src="https://user-images.githubusercontent.com/79094527/210572138-999f8fd5-0884-4d44-9829-8817d693ff73.jpg" width="215" height="466"/>
-<img src="https://user-images.githubusercontent.com/79094527/210572337-60a9e5cb-a68f-496e-ae4b-2f585b616962.jpg" width="215" height="466"/>
-<img src="https://user-images.githubusercontent.com/79094527/210572343-5d4cd1fc-717b-48f6-acb1-dd6d2658928f.jpg" width="215" height="466"/>
-
-<img src="https://user-images.githubusercontent.com/79094527/210572359-81ca9cb1-693d-4d05-9219-7a722385364a.jpg" width="215" height="466"/>
-<img src="https://user-images.githubusercontent.com/79094527/210572368-22d39a0e-fdf3-46f6-a7ef-af279b0bf0f7.jpg" width="215" height="466"/>
-
-
-
-|---|---|
+|<img src="https://user-images.githubusercontent.com/79094527/210572138-999f8fd5-0884-4d44-9829-8817d693ff73.jpg" width="215" height="466"/>|<img src="https://user-images.githubusercontent.com/79094527/210572337-60a9e5cb-a68f-496e-ae4b-2f585b616962.jpg" width="215" height="466"/>|<img src="https://user-images.githubusercontent.com/79094527/210572343-5d4cd1fc-717b-48f6-acb1-dd6d2658928f.jpg" width="215" height="466"/>|<img src="https://user-images.githubusercontent.com/79094527/210572359-81ca9cb1-693d-4d05-9219-7a722385364a.jpg" width="215" height="466"/>|<img src="https://user-images.githubusercontent.com/79094527/210572368-22d39a0e-fdf3-46f6-a7ef-af279b0bf0f7.jpg" width="215" height="466"/>|
+|---|---|---|---|---|
 
 
 ## 💡 What's Next?
