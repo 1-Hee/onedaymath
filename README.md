@@ -24,8 +24,10 @@
 
 
 ### 하루 1분 수학 본능 메인 페이지
-
-
+||||
+|---|---|
+|![KakaoTalk_20230104_224917013_07](https://user-images.githubusercontent.com/79094527/210569247-806c0fd8-4bb7-4805-b2d7-6457a1f6d00d.jpg)|![Uploading KakaoTalk_20230104_224917013.jpg…]()
+|
 
 
 
