@@ -23,10 +23,25 @@
 지금 바로 하루 1분을 마음 껏 즐겨보세요! 😀
 
 
-### 하루 1분 수학 본능 메인 페이지
-<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="200" height="400"/>
+### 하루 1분 수학 본능 메인 액티비티
+<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
 
+### 하루 1분 수학본능 라운드 액티비티(실제 게임을 진행하는 액티비티)
+<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
+
+<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
+<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
+
+<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
+
+
+<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
+
+
+
+
+
+|---|---|
 
 
 ## 💡 What's Next?
