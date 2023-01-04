@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RoundActivity">
+
+    <ImageView
+        android:id="@+id/main_logo_img"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/main_logo" />
+
+    <FrameLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="80dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/play_time_indicator_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:fontFamily="@font/puradak_gentle_gothic"
+            android:textAlignment="center"
+            />
+
+        <FrameLayout
+            android:id="@+id/main_btn_frame"
+            android:layout_width="300dp"
+            android:layout_height="300dp">
+
+            <ImageView
+                android:id="@+id/main_frame_btn_line"
+                android:layout_width="220dp"
+                android:layout_height="220dp"
+                android:layout_gravity="center"
+                android:src="@drawable/btn_circle" />
+
+            <Button
+                android:id="@+id/main_plus_btn"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="top|center"
+                android:background="@drawable/plus_btn_ripple" />
+
+            <Button
+                android:id="@+id/main_minus_btn"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="left|center"
+                android:background="@drawable/minus_btn_ripple" />
+
+            <Button
+                android:id="@+id/main_multiply_btn"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="bottom|center"
+                android:background="@drawable/multiply_btn_ripple" />
+
+            <Button
+                android:id="@+id/main_divide_btn"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="right|center"
+                android:background="@drawable/divide_btn_ripple" />
+        </FrameLayout>
+    </FrameLayout>
+
+
+
+
+</LinearLayout>
