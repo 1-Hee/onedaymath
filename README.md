@@ -25,7 +25,7 @@
 
 ### 하루 1분 수학 본능 메인 페이지
 <img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="200" height="400"/>
-
+<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="200" height="400"/>
 
 
 
