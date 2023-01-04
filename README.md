@@ -7,7 +7,7 @@
 - 안드로이드 프로젝트 개발 시작(2022. 12. 19)
 -  Android Apk 생성 완료 (2022. 12. 23.)
 
-## ## 💻 Libraries and Frameworks
+## 💻 Libraries and Frameworks
 - 이번 프로젝트는 아래의 기술 스택이 사용되었습니다.
 - This application is made of
 	- Kotlin
