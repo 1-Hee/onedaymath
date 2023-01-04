@@ -27,16 +27,7 @@
 <img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
 
 ### 하루 1분 수학본능 라운드 액티비티(실제 게임을 진행하는 액티비티)
-<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
-
-<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
-<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
-
-<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
-
-
-<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="215" height="466"/>
-
+<img src="https://user-images.githubusercontent.com/79094527/210572138-999f8fd5-0884-4d44-9829-8817d693ff73.jpg" width="215" height="466"/>
 
 
 
