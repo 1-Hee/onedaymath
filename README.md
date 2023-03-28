@@ -11,8 +11,10 @@
 - 이번 프로젝트는 아래의 기술 스택이 사용되었습니다.
 - This application is made of
 	- Kotlin
-	- Android Studio
+	- Gradle	
 	- SQLite
+	- Android Studio
+	
 
 
 ## 🔍 프로젝트 개요 (Project Overview)
