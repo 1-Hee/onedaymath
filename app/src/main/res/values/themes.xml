@@ -2,9 +2,9 @@
     <!-- Base application theme. -->
     <style name="Theme.OnedayMath" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryDark">#DFD0C8</item>
-        <item name="colorAccent">@color/teal_200</item>
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_color</item>
+        <item name="colorAccent">#FFD896</item>
         <!-- Customize your theme here. -->
         <!-- TODO: 상단바 없애기 -->
         <item name="windowActionBar">false</item>
