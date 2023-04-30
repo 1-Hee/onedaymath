@@ -1,6 +1,8 @@
 
 ## 하루 1분 수학 본능 (OneDayMath)
 
+<img src="https://user-images.githubusercontent.com/79094527/235335095-279bb828-3722-4890-a271-926cbb05984c.png" width="1024" height="500"/>
+
 
 ### 프로젝트 진행 기간 : 2022. 12. 19. ~ 2022. 12. 22.
 
