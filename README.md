@@ -38,13 +38,10 @@ https://play.google.com/store/apps/details?id=co.kr.onedaymath
 
 |<img src="https://user-images.githubusercontent.com/79094527/210572138-999f8fd5-0884-4d44-9829-8817d693ff73.jpg" width="270" height="600"/>|<img src="https://user-images.githubusercontent.com/79094527/210572337-60a9e5cb-a68f-496e-ae4b-2f585b616962.jpg" width="270" height="600"/>|<img src="https://user-images.githubusercontent.com/79094527/210572343-5d4cd1fc-717b-48f6-acb1-dd6d2658928f.jpg" width="270" height="600"/>|<img src="https://user-images.githubusercontent.com/79094527/210572359-81ca9cb1-693d-4d05-9219-7a722385364a.jpg" width="270" height="600"/>|
 |---|---|---|---|
-|||||
 
 
 ### 플레이 영상
-https://user-images.githubusercontent.com/79094527/210573059-e9b5cc1a-5ed3-4256-9dad-f6a29602cede.mp4
-
-
+[video](https://user-images.githubusercontent.com/79094527/210573059-e9b5cc1a-5ed3-4256-9dad-f6a29602cede.mp4)
 
 
 ## 💡 What's Next?
