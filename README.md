@@ -24,7 +24,10 @@
 
 ## 하루 1분 수학 본능
 
-|<img src="https://user-images.githubusercontent.com/79094527/235335096-25d261ef-5b7a-4d49-be98-a0ee62743f25.png" width="270" height="600"/>| <img src="https://user-images.githubusercontent.com/79094527/235335097-7f37e38d-ed43-412a-9ff0-079e0c27de4a.png" width="270" height="600"/>| <img src="https://user-images.githubusercontent.com/79094527/235335093-f3b0efe2-95f5-46ec-ba97-9aab6e417164.png" width="270" height="600"/>|https://user-images.githubusercontent.com/79094527/210573059-e9b5cc1a-5ed3-4256-9dad-f6a29602cede.mp4|
+|<img src="https://user-images.githubusercontent.com/79094527/235335096-25d261ef-5b7a-4d49-be98-a0ee62743f25.png" width="270" height="600"/>| <img src="https://user-images.githubusercontent.com/79094527/235335097-7f37e38d-ed43-412a-9ff0-079e0c27de4a.png" width="270" height="600"/>| <img src="https://user-images.githubusercontent.com/79094527/235335093-f3b0efe2-95f5-46ec-ba97-9aab6e417164.png" width="270" height="600"/>|
+<video controls width="270">
+    <source src="https://user-images.githubusercontent.com/79094527/210573059-e9b5cc1a-5ed3-4256-9dad-f6a29602cede.mp4" type="video/mp4">		
+</video>|
 |---|---|---|---|
 
 
