@@ -28,12 +28,19 @@
 |<img src="https://user-images.githubusercontent.com/79094527/235335096-25d261ef-5b7a-4d49-be98-a0ee62743f25.png" width="270" height="600"/>| <img src="https://user-images.githubusercontent.com/79094527/235335097-7f37e38d-ed43-412a-9ff0-079e0c27de4a.png" width="270" height="600"/>| <img src="https://user-images.githubusercontent.com/79094527/235335093-f3b0efe2-95f5-46ec-ba97-9aab6e417164.png" width="270" height="600"/>|
 |---|---|---|
 
----
+
+
+
 
 ### 지금 바로 플레이 스토어에서 즐겨보세요! 😆
+
 https://play.google.com/store/apps/details?id=co.kr.onedaymath
 
----
+
+
+
+
+
 
 ### 플레이 화면 한눈에 보기
 |<img src="https://user-images.githubusercontent.com/79094527/210569552-8020064d-473a-4715-83a4-f441dc8c1992.jpg" width="270" height="600"/>| <img src="https://user-images.githubusercontent.com/79094527/210572831-fd2ef56f-41dd-4e60-a05e-c98e660a26e7.jpg" width="270" height="600"/>| <img src="https://user-images.githubusercontent.com/79094527/210572368-22d39a0e-fdf3-46f6-a7ef-af279b0bf0f7.jpg" width="270" height="600"/>|
