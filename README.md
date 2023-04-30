@@ -45,7 +45,7 @@ https://play.google.com/store/apps/details?id=co.kr.onedaymath
 
 
 ### 플레이 영상
-![플레이영상)(https://user-images.githubusercontent.com/79094527/210573059-e9b5cc1a-5ed3-4256-9dad-f6a29602cede.mp4)
+![플레이영상](https://user-images.githubusercontent.com/79094527/210573059-e9b5cc1a-5ed3-4256-9dad-f6a29602cede.mp4)
 
 
 
