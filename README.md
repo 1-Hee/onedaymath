@@ -47,10 +47,7 @@ https://play.google.com/store/apps/details?id=co.kr.onedaymath
 <details>
 <summary>플레이 영상</summary>
 <div markdown="1">
-	<video width="270" height="600" controls>
-  		<source src="https://user-images.githubusercontent.com/79094527/210573059-e9b5cc1a-5ed3-4256-9dad-f6a29602cede.mp4" type="video/mp4">
-  		Your browser does not support the video tag.
-	</video>
+	https://user-images.githubusercontent.com/79094527/210573059-e9b5cc1a-5ed3-4256-9dad-f6a29602cede.mp4
 </div>
 </details>
 
